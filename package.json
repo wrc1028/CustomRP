@@ -1,0 +1,10 @@
+{
+  "name": "com.custom.render-pipelines.custom",
+  "version": "17.0.2",
+  "unity": "2023.3",
+  "displayName": "Custom RP",
+  "dependencies": {
+    "com.unity.render-pipelines.core": "17.0.2"
+  },
+  "_fingerprint": "5abf1191483e3315002a18fb740e02b5878479ff"
+}
